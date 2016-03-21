@@ -1,2 +1,3 @@
 # hello_world
-My idea respository
+My idea respository.
+This is awesome!
